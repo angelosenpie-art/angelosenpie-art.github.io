@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.baf49a03.chunk.css",
+    "main.js": "/static/js/main.ee93015b.chunk.js",
+    "main.js.map": "/static/js/main.ee93015b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9412c5a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9412c5a0.js.map",
+    "static/js/2.1aa4f160.chunk.js": "/static/js/2.1aa4f160.chunk.js",
+    "static/js/2.1aa4f160.chunk.js.map": "/static/js/2.1aa4f160.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.baf49a03.chunk.css.map": "/static/css/main.baf49a03.chunk.css.map",
+    "static/js/2.1aa4f160.chunk.js.LICENSE.txt": "/static/js/2.1aa4f160.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/static/media/address.a01cb8cc.png",
+    "static/media/angeloprofile.6ffe57da.png": "/static/media/angeloprofile.6ffe57da.png",
+    "static/media/award.a796a64f.png": "/static/media/award.a796a64f.png",
+    "static/media/email.a49e0158.png": "/static/media/email.a49e0158.png",
+    "static/media/moon.3bea3d39.png": "/static/media/moon.3bea3d39.png",
+    "static/media/phone.d90a6d23.png": "/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9412c5a0.js",
+    "static/js/2.1aa4f160.chunk.js",
+    "static/css/main.baf49a03.chunk.css",
+    "static/js/main.ee93015b.chunk.js"
+  ]
+}
